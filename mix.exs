@@ -30,7 +30,7 @@ defmodule ExChatwork.MixProject do
     [
       {:ex_doc, "~> 0.18", only: :dev},
       {:httpoison, "~> 1.5"},
-      {:poison, "~> 4.0"}
+      {:poison, "~> 3.0"}
     ]
   end
 
